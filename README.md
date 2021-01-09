@@ -1,4 +1,6 @@
 # Detector-de-celulas-cancerigenas
+## - Desarrolladores: Ayleen Contreras Solar <aycontreras2016@udec.cl>
+      +
 Proyecto en desarrollo de herramienta que permitirá la detección de células cancerígenas en muestra histológicas.
 
 
@@ -24,3 +26,17 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 
 
 ![](img_/Ejemplo2.PNG)
+
+
+- Probamos el programa con una imagen idela para detectar los nucleos celulares y obtuvimos el siguiente resultado:
+
+![](img_/Ejemploideal.PNG)
+
+- Luego pusimos a prubea con  dos imagen reales y obtuvimos los siguientes resultados:
+
+[](img_/Ejemplodetec2.PNG)
+
+[](img_/Ejemplodetec.PNG)
+
+Como avance logramos hacer la deteccion de celulas donde aún falta desarrollar los algoritmo para que sean mas precisos y una vez obtenido preparar nuestra red neuronal.
+
