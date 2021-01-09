@@ -7,7 +7,7 @@
 Proyecto en desarrollo de herramienta que permitirá la detección de células cancerígenas en muestra histológicas.
 
 
-El primer semestre del año 2020 se comenzó el trabajo en una herramienta capaz de detectar células cancerígenas en muestras histológicas a través de un programa desarrollado en Python 3.9.1.
+El segundo semestre del año 2020 se comenzó el trabajo en una herramienta capaz de detectar células cancerígenas en muestras histológicas a través de un programa desarrollado en Python 3.9.1.
 Tenemos como objetivo principal, crear una red neuronal convolucional capaz de detectar una muestra e identificar si esta es cancerígena.  
 Como primer paso, nos preocupamos de que nuestro programa detectara ciertas características de las células en general, para luego comenzar a pulir el programa y a futuro llegar a que detecte solo las células cancerígenas. 
 
