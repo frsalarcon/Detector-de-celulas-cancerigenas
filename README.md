@@ -12,7 +12,15 @@ El semestre 2020-2 obtuvimos como resultado la detección en células con cierto
 El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, numpy, pandas y matplotlib.
 
 -**Imágenes de ejemplo que analizamos:**
+
+
 - Muestra histológica 1 :
+
+
 ![](img/Ejemplo1.PNG)
+
+
 - Muestra histológica 2 :
-![](img/Ejemplo2.PNG)
+
+
+![](img/Ejemplo_2.PNG)
