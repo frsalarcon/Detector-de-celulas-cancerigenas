@@ -1,8 +1,8 @@
 # Detector-de-celulas-cancerigenas
-##### Desarrolladores: 
+### Desarrolladores: 
 
-1)Ayleen Contreras Solar  (<aycontreras2016@udec.cl>)         
-1)Francisco Salinas Alarcón (<frsalinas@udec.cl>)
+#### 1) Ayleen Contreras Solar  (<aycontreras2016@udec.cl>)         
+#### 2) Francisco Salinas Alarcón (<frsalinas@udec.cl>)
       
 Proyecto en desarrollo de herramienta que permitirá la detección de células cancerígenas en muestra histológicas.
 
