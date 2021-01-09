@@ -12,6 +12,5 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 
 Imagenes de ejemplo que analizamos:
 
-![all texxt](img/Ejemplo1.PNG"imagen")
-
+![](img/Ejemplo1.PNG)
 
