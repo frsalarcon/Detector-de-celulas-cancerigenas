@@ -37,11 +37,11 @@ El programa  fue realizado con Python 3.9.1, usando las librerías de opencv2, n
 
 - Luego pusimos a prueba con  dos imágenes reales y obtuvimos los siguientes resultados:
 
-[](img_/Ejemplodetec2.PNG)
+![](img_/Ejemplodetec2.PNG)
 
 - Con identificación numérica:
 
-[](img_/Ejemplodetec.PNG)
+![](img_/Ejemplodetec.PNG)
 
 Como avance logramos hacer la detección de células donde aún falta desarrollar los algoritmo para que sean más precisos y una vez obtenido preparar nuestra red neuronal.
 
