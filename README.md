@@ -23,4 +23,4 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 - Muestra histológica 2 :
 
 
-![](img/Ejemplo_2.PNG)
+![](img/Ejemplo%2.PNG)
