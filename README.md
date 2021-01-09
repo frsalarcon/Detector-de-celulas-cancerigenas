@@ -12,7 +12,6 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 
 Imagenes de ejemplo que analizamos:
 
+![](img/Ejemplo1.PNG"imagen")
 
-
-https://udeconce-my.sharepoint.com/personal/frsalinas_udec_cl/Documents/images/1.PNG
 
