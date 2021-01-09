@@ -8,9 +8,11 @@ Como primer paso, nos preocupamos de que nuestro programa detectara ciertas cara
 
 El semestre 2020-2 obtuvimos como resultado la detección en células con ciertos detalles que pulir. Una vez que tengamos una buena base y claras las características que queremos que nuestro programa detecte en las muestras, incorporaremos todos estos detalles y crearemos una red neuronal que enlace cada una de estas ideas para lograr que detecte las células cancerígenas con una alta probabilidad de exactitud.
 
+
 El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, numpy, pandas y matplotlib.
 
-Imagenes de ejemplo que analizamos:
-
+-**Imágenes de ejemplo que analizamos:**
+- Muestra histológica 1 :
 ![](img/Ejemplo1.PNG)
-
+- Muestra histológica 2 :
+![](img/Ejemplo 2.PNG)
