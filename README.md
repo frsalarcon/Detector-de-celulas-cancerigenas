@@ -15,4 +15,4 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 - Muestra histológica 1 :
 ![](img/Ejemplo1.PNG)
 - Muestra histológica 2 :
-![](img/Ejemplo 2.PNG)
+![](img/Ejemplo2.PNG)
