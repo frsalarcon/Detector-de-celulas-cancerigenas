@@ -14,7 +14,7 @@ Como primer paso, nos preocupamos de que nuestro programa detectara ciertas cara
 El semestre 2020-2 obtuvimos como resultado la detección en células con ciertos detalles que pulir. Una vez que tengamos una buena base y claras las características que queremos que nuestro programa detecte en las muestras, incorporaremos todos estos detalles y crearemos una red neuronal que enlace cada una de estas ideas para lograr que detecte las células cancerígenas con una alta probabilidad de exactitud.
 
 
-El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, numpy, pandas y matplotlib.
+El programa  fue realizado con Python 3.9.1, usando las librerías de opencv2, numpy, pandas y matplotlib.
 
 -**Imágenes de ejemplo que analizamos:**
 
@@ -31,15 +31,19 @@ El programa  fue realizado con Python 3.9.1, usando las librerias de opencv2, nu
 ![](img_/Ejemplo2.PNG)
 
 
-- Probamos el programa con una imagen idela para detectar los nucleos celulares y obtuvimos el siguiente resultado:
+- Probamos el programa con una imagen idel  para detectar los núcleos celulares y obtuvimos el siguiente resultado:
 
 ![](img_/Ejemploideal.PNG)
 
-- Luego pusimos a prubea con  dos imagen reales y obtuvimos los siguientes resultados:
+- Luego pusimos a prueba con  dos imágenes reales y obtuvimos los siguientes resultados:
 
 [](img_/Ejemplodetec2.PNG)
 
+- Con identificación numérica:
+
 [](img_/Ejemplodetec.PNG)
 
-Como avance logramos hacer la deteccion de celulas donde aún falta desarrollar los algoritmo para que sean mas precisos y una vez obtenido preparar nuestra red neuronal.
+Como avance logramos hacer la detección de células donde aún falta desarrollar los algoritmo para que sean más precisos y una vez obtenido preparar nuestra red neuronal.
 
+
+`Proyecto en desarrollo...`
